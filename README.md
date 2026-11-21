@@ -4,9 +4,21 @@
 <p align="center">
   <a href="https://github.com/Digvijay05/manual-expense-tracker/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Digvijay05/manual-expense-tracker?label=latest&style=for-the-badge&cacheSeconds=3600"></a>
   <a href="https://github.com/Digvijay05/manual-expense-tracker/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/Digvijay05/manual-expense-tracker/total?style=for-the-badge&cacheSeconds=3600"></a>
+  <a href="https://manual-expense-tracker.pages.dev"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmanual-expense-tracker.pages.dev&label=website&style=for-the-badge&cacheSeconds=3600"></a>
 </p>
 
 An Android app for recording daily expenses, income and admissions in rupees. Everything stays on the phone: no server, no account, and it works without internet.
+
+🌐 **Website:** [manual-expense-tracker.pages.dev](https://manual-expense-tracker.pages.dev)
+
+## 📱 Screenshots
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://manual-expense-tracker.pages.dev/screens/home-dark.webp"><img alt="Home: today's net, spending over the last days, and progress toward the month's targets" src="https://manual-expense-tracker.pages.dev/screens/home-light.webp" width="200"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://manual-expense-tracker.pages.dev/screens/day-dark.webp"><img alt="Day: every expense and admission for a date" src="https://manual-expense-tracker.pages.dev/screens/day-light.webp" width="200"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://manual-expense-tracker.pages.dev/screens/charts-dark.webp"><img alt="Reports: daily income and expenses chart and running net profit" src="https://manual-expense-tracker.pages.dev/screens/charts-light.webp" width="200"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://manual-expense-tracker.pages.dev/screens/targets-dark.webp"><img alt="Targets: income and admissions progress for the month" src="https://manual-expense-tracker.pages.dev/screens/targets-light.webp" width="200"></picture>
+</p>
 
 ## ✨ Features
 
@@ -31,7 +43,7 @@ An Android app for recording daily expenses, income and admissions in rupees. Ev
 
 ## 📥 Download
 
-Get the latest APK from **[Releases](https://github.com/Digvijay05/manual-expense-tracker/releases/latest)**.
+Get the latest APK from the **[website](https://manual-expense-tracker.pages.dev)** or from **[Releases](https://github.com/Digvijay05/manual-expense-tracker/releases/latest)**. The website also has a [step-by-step install guide](https://manual-expense-tracker.pages.dev/install).
 
 ### Install
 1. Download `ExpenseTracker-v<version>.apk` on your phone.
