@@ -48,7 +48,19 @@ Every release lists the APK's SHA-256 in a `.sha256` file. On a PC:
 Get-FileHash .\ExpenseTracker-v1.0.0.apk -Algorithm SHA256
 ```
 
-After installing, **Settings → About** shows the app's signing certificate. It must be the same on every update.
+Every official release is signed with the same certificate. Its SHA-256 fingerprint is:
+
+```
+D8:00:B8:8F:4C:36:EB:F0:94:60:3B:48:40:29:B4:D5:04:33:A4:A4:09:48:24:CD:EC:A3:5C:07:3B:56:B8:09
+```
+
+After installing, **Settings → About** shows the app's signing certificate; it must match this. To check an APK before installing, with the Android SDK build tools:
+
+```powershell
+apksigner verify --print-certs .\ExpenseTracker-v1.0.9.apk
+```
+
+and compare the `certificate SHA-256 digest` line (the same value, without colons). If it ever differs, do not install that APK.
 
 ## 📝 Changelog
 
