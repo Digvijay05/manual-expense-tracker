@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Digvijay05/manual-expense-tracker/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Digvijay05/manual-expense-tracker?label=latest&style=for-the-badge&cacheSeconds=3600"></a>
-  <a href="https://github.com/Digvijay05/manual-expense-tracker/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/Digvijay05/manual-expense-tracker/total?style=for-the-badge&color=2ea44f&cacheSeconds=3600"></a>
+  <a href="https://github.com/Digvijay05/manual-expense-tracker/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/Digvijay05/manual-expense-tracker/total?style=for-the-badge&cacheSeconds=3600"></a>
 </p>
 
 An Android app for recording daily expenses, income and admissions in rupees. Everything stays on the phone: no server, no account, and it works without internet.
