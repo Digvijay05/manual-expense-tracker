@@ -1,4 +1,4 @@
-<h1 align="center">Manual Expense Tracker</h1>
+<h1 align="center">Manual Expense Tracker (MET)</h1>
 <h3 align="center">Expenses, income and admissions. On your phone, offline.</h3>
 
 <p align="center">
@@ -80,4 +80,4 @@ What changed in each version is in the notes of each [release](https://github.co
 
 ---
 
-<p align="center">© 2026 Manual Expense Tracker. All rights reserved. Source code is not public.</p>
+<p align="center">© 2026 Manual Expense Tracker (MET). All rights reserved. Source code is not public.</p>
